@@ -1,3 +1,7 @@
-.vscode
+**/.DS_Dtore
+.DS_Dtore
 **/.vscode
-**/out
+.vscode
+**/node_modules
+*.txt
+*.log
